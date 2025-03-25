@@ -4,3 +4,6 @@ gitcreds_set()
 
 library(usethis)
 use_github()
+
+### We should use tidyverse ## 
+library(tidyverse)
